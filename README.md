@@ -5,9 +5,12 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23FF6F00.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-%230175C2.svg?style=for-the-badge&logo=solidity&logoColor=green)
+![Solidity](https://img.shields.io/badge/-Solidity-%230175C2.svg?style=for-the-badge&logo=solidity&logoColor=green)<br />
+![Golang](https://img.shields.io/badge/Golang-yellow.svg?style=for-the-badge&logo=Go&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Ruby-E10098?style=for-the-badge&logo=Ruby&logoColor=%E10098)
 ![Python](https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
 
 <br />
 <br />
