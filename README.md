@@ -1,3 +1,4 @@
+![Screenshot from 2022-04-11 15-38-27](https://user-images.githubusercontent.com/36077702/163596579-5ab62c86-e087-4596-9129-95d18e2c9e89.png)
 ### Hi there, I hope you are having a great day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
@@ -11,10 +12,8 @@
 ![Python](https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
+<br />
 
-<br />
-<br />
-<br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="310" height="200" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=prlina01&show_icons=true&theme=gotham" alt="prlina01" />
 
