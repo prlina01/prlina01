@@ -1,4 +1,4 @@
-![Screenshot from 2022-04-11 15-38-27](https://user-images.githubusercontent.com/36077702/163596579-5ab62c86-e087-4596-9129-95d18e2c9e89.png)
+![Screenshot from 2022-04-15 18-46-20](https://user-images.githubusercontent.com/36077702/163597786-a0e90a64-fad4-44c1-ad8f-74e218348bcc.png)
 ### Hi there, I hope you are having a great day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
