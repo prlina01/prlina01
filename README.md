@@ -15,7 +15,7 @@
 
 <br />
 
-- 🌱 **Web2 Technologies**: React, NextJS, NodeJS, Ruby on Rails, Docker, AWS, GraphQL, MongoDB, PosgreSQL
+- 🌱 **Web2 Technologies**: React, NextJS, NodeJS, Ruby on Rails, Docker, AWS, GraphQL, PostgreSQL, MongoDB
 - 🌎 **Web3 Technologies**: Hardhat, EthersJS, OpenZeppelin, Chainlink, The Graph, IPFS, Alchemy, Polygon
 - 🏛️ **Theoretical Web3**: Blockchain, EVM, Merkle Trees, L2 Scaling Solutions...
 - 🔥 **Solidity**: Gas optimization, Common vulnerabilities, Proxy pattern, Metatransactions...
