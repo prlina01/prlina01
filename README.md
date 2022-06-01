@@ -1,6 +1,6 @@
 ![Screenshot from 2022-05-07 19-48-00](https://user-images.githubusercontent.com/36077702/167265854-d50154d6-e355-4a84-b89a-af047563263c.png)
 
-## <div align="center"> Hi there, I hope you are having a great day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+## <div align="center"> Hi there, I hope you are having a great day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></div>
 
 ### <div align="center">Languages</div>
 
@@ -19,7 +19,7 @@
 - 🌱 **Web2 Technologies**: React, NextJS, NodeJS, Ruby on Rails, Docker, AWS, GraphQL, PostgreSQL, MongoDB
 - 🌎 **Web3 Technologies**: Hardhat, EthersJS, OpenZeppelin, Chainlink, The Graph, IPFS, Alchemy, Polygon
 - 🏛️ **Theoretical Web3**: Blockchain, EVM, Merkle Trees, L2 Scaling Solutions...
-- 🔥 **Solidity**: Gas optimization, Common vulnerabilities, Proxy pattern, Metatransactions...
+- 🔥 **Solidity**: Gas optimization, Common vulnerabilities, Design paterns, Metatransactions...
 - 🚀 **NFTs**: ERC721, ERC721A, ERC1155, Presales, Airdrops, Applying Merkle trees...
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prlina01&show_icons=true&theme=gotham" alt="prlina01" />
