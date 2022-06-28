@@ -2,6 +2,9 @@
 
 ## <div align="center"> Hi there, I hope you are having a great day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></div>
 
+<p align="center"> <a href="https://twitter.com/mowglimeta" target="blank"><img src="https://img.shields.io/twitter/follow/GospodinPekson?logo=twitter&style=for-the-badge" alt="GospodinPekson" /></a> </p>
+
+
 ### <div align="center">Languages</div>
 
 <div align="center">
